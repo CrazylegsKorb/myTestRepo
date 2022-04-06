@@ -40,6 +40,7 @@ public class Duck extends Bird implements laysEggs, canSwim, omnivore, canFly{
         this.layAnEgg();
         this.swim();
         this.fly();
+        System.out.println();
     }
     
 }
