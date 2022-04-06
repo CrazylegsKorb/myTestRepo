@@ -15,7 +15,7 @@ public class Reptiles<Boolean, String> extends Animal {
 		this.hasScales = true;
 	}
 	
-	public void hasFeathers()
+	public void Scales()
 	{
 		System.out.println("Has Scales? " + this.hasScales);
 	}
