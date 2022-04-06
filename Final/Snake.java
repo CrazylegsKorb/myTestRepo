@@ -1,3 +1,4 @@
+package Final;
 public class Snake extends Reptile implements laysEggs, canSwim, carnivore, canFly, walks{
 
     Snake(){

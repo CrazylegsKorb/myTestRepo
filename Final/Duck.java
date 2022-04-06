@@ -1,3 +1,4 @@
+package Final;
 public class Duck extends Bird implements laysEggs, canSwim, omnivore, canFly{
 
     Duck(){

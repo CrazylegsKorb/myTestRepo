@@ -1,3 +1,4 @@
+package Final;
 public class Bird extends Animal{
     public Boolean hasFeathers;
     public Boolean hasHollowBones;

@@ -1,3 +1,4 @@
+package Final;
 public class Penguin extends Bird implements laysEggs, canSwim, carnivore, walks, jumps{
 
     Penguin(){

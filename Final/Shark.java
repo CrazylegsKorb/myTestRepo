@@ -1,3 +1,4 @@
+package Final;
 public class Shark extends Fish implements canSwim, carnivore, laysEggs, liveBirth{
 
     Shark(){

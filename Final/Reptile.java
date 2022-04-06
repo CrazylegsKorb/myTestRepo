@@ -1,3 +1,4 @@
+package Final;
 public class Reptile extends Animal{
     public Boolean isColdBlooded;
     public Boolean hasScales;

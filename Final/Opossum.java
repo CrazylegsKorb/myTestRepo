@@ -1,3 +1,4 @@
+package Final;
 public class Opossum extends Mammal implements omnivore, canSwim, liveBirth, walks, jumps{
 
     Opossum(){

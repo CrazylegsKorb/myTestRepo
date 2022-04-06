@@ -1,3 +1,4 @@
+package Final;
 public class Deer extends Mammal implements herbavore, walks, liveBirth, canSwim, jumps{
 
     Deer(){

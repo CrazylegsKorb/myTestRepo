@@ -1,3 +1,4 @@
+package Final;
 public class Fish extends Animal {
     public Boolean hasGills;
     public String type = "fish";
