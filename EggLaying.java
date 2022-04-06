@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface EggLaying {
+public interface EggLaying {
+    public void layingEgg();
 }

@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Swim {
+public interface Swim {
+
+    public void swimming();
+
 }

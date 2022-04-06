@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public interface Herbivore {
+public interface Herbivore {
+
+    ///testing
+    public void eatPlants();
+
+
 }

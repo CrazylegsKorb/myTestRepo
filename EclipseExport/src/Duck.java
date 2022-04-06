@@ -1,4 +1,5 @@
 
+
 public class Duck extends Bird{
 	private String name;
 	private int weight;
